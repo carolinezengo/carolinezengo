@@ -1,16 +1,16 @@
-### Hi there 👋
+### Ola, Meu nome é Caroline 👋
 
-<!--
-**carolinezengo/carolinezengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Sistema back end Junior apaixonada pela area. No moemnto procuro a primeira oportunidade na area de desenvolvimento. Ja trabalhei de tecnico informatica, suporte ao usuario, estoquista e vendedora
 
-Here are some ideas to get you started:
+* Atualmente focada em C#
+* Meu portifolio é https://carolinezengo.github.io/js-developer-portfolio/
+* Linkedin https://www.linkedin.com/in/caroline-zengo-de-freitas/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <div style="display: inline">
+  <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/js.png"/>
+  <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/csharp.png"/>
+    <img width ='50' heigth='50' src"https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/sql-server.png"/>
+  
+    
+  </div>
