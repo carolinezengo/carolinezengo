@@ -10,7 +10,7 @@ Desenvolvedora Sistema back end Junior apaixonada pela area. No moemnto procuro 
   <div style="display: inline">
   <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/js.png"/>
   <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/csharp.png"/>
-    <img width ='50' heigth='50' src"https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/sql-server.png"/>
+  <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/sql-server.png"/>
   
     
   </div>
