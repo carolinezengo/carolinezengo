@@ -7,6 +7,7 @@ Desenvolvedora Sistema back end Junior apaixonada pela area. No moemnto procuro 
 * Linkedin https://www.linkedin.com/in/caroline-zengo-de-freitas/
 
 
+<h2> Conhecimentos:</h2>
   <div style="display: inline">
   <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/js.png"/>
   <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/csharp.png"/>
