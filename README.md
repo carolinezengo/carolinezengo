@@ -1,10 +1,11 @@
 ### Ola, Meu nome é Caroline 👋
 
-Desenvolvedora Sistema back end Junior apaixonada pela area. No moemnto procuro a primeira oportunidade na area de desenvolvimento. Ja trabalhei de tecnico informatica, suporte ao usuario, estoquista e vendedora
+Analista Sistema Junior apaixonada pela área. No momento procuro a primeira oportunidade na área de desenvolvimento. Já atuei no mercado de trabalho como técnica informática, suporte de usuário, estoquista e vendedora
 
 * Atualmente focada em C#
-* Meu portifolio é https://carolinezengo.github.io/js-developer-portfolio/
+* Meu portfolio é https://carolinezengo.github.io/js-developer-portfolio/
 * Linkedin https://www.linkedin.com/in/caroline-zengo-de-freitas/
+
 
 
 <h2> Conhecimentos:</h2>
