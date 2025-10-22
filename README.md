@@ -10,7 +10,7 @@ Analista Sistema Junior apaixonada pela área. No momento procuro a primeira opo
 
 <h2> Conhecimentos:</h2>
   <div style="display: inline">
-  <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/js.png"/>
+  <img width ='50' heigth='50' src=" https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/angular.png"/>
   <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/csharp.png"/>
   <img width ='50' heigth='50' src="https://raw.githubusercontent.com/carolinezengo/js-developer-portfolio/main/data/imgs/sql-server.png"/>
   
