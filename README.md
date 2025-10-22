@@ -1,6 +1,6 @@
 ### Ola, Meu nome é Caroline 👋
 
-Analista Sistema Junior apaixonada pela área. No momento procuro a primeira oportunidade na área de desenvolvimento. Já atuei no mercado de trabalho como técnica informática, suporte de usuário, estoquista e vendedora
+Analista Sistema Junior apaixonada pela área. No momento procuro a primeira oportunidade na área de desenvolvimento. Já atuei no mercado de trabalho como técnica informática, suporte de usuário com sistemas ERP, estoquista e vendedora
 
 * Atualmente focada em C#
 * Meu portfolio é https://carolinezengo.github.io/js-developer-portfolio/
